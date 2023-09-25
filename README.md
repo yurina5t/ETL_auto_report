@@ -12,8 +12,8 @@ DAU, Просмотры, Лайки, CTR.
 __DAG в Airflow__
 
 <img width="1468" alt="image" src="https://github.com/yurina5t/ETL_auto_report/assets/93882842/a9bf1ede-1d08-4757-a1ca-b9d1f72cf067"> 
-<img width="1470" alt="image" src="https://github.com/yurina5t/ETL_auto_report/assets/93882842/b68cd04e-a7c5-463f-8554-4b40b900f0c8">
-
+<img width="1470" alt="image" src="https://github.com/yurina5t/ETL_auto_report/assets/93882842/b68cd04e-a7c5-463f-8554-4b40b900f0c8">   
+   
 __Отчетность в telegram-чате__
 
 <img width="752" alt="Снимок экрана 2023-09-25 в 09 39 11" src="https://github.com/yurina5t/ETL_auto_report/assets/93882842/92ce256e-2ba0-48c1-88a5-6fd8cd46cfa9">
